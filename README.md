@@ -1,16 +1,14 @@
-### Hi there I am Razu Biswas 👋
+### Hi there 👋, Razu Biswas
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Razu-Biswas/Razu-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end Developer and Familiar with work's Backend. I enjoy working with Team as a leader or member.I Always learning New technology. I enjoy it.
 
-Here are some ideas to get you started:
+Skills:  REACT / JS / HTML / CSS/NODE/EXPRESS/MONGODB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React Native...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
