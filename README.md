@@ -1,10 +1,10 @@
-### Hi there 👋,I'm Razu Biswas
+### Hi 👋,I'm Razu Biswas
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a Front-end Developer and Familiar with work's Backend. I enjoy working with Team as a leader or member.I Always learning New technology. I enjoy it.
+To gain confidence and fame using my potential in the field of Web Development, and express my innovative creative skills for self and company growth. 
 
-Skills:  REACT / JS / HTML / CSS/NODE/EXPRESS/MONGODB
+Skills:  REACT / JS / HTML / CSS / NODE / EXPRESS/ MONGODB
 
 - 🔭 I’m currently working on this page. 
 
