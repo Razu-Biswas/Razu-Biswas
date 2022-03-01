@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/raju80778599" target="blank"><img src="https://img.shields.io/twitter/follow/Razu?logo=twitter&style=for-the-badge" alt="raju" /></a> </p>
 
-- 💬 Any Questions **React, Node and JavaScript.**
+- 💬 Any Questions **React & Express Node and JavaScript.**
 
 - 📫 Any Query **razubiswas114@gmail.com**
 <!-- 
